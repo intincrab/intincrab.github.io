@@ -150,6 +150,12 @@ header .title {
 footer {
 	font-family: 'IBM Plex Mono', monospace;
 	font-size: 10px;
+        position: fixed;
+        bottom: 0;
+        width: 100%;
+        background-color: #f5f5f5;
+        text-align: center;
+        padding: 10px;
 }
 
 h1 {
